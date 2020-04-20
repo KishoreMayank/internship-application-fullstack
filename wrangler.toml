@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "cloudfare-internship"
 type = "javascript"
-account_id = ""
+account_id = "5429ba4a00a14b30c76a673c2f7d3c3a"
 workers_dev = true
 route = ""
 zone_id = ""
